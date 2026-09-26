@@ -1,0 +1,15 @@
+experiment_id,gene,role,channel,filename,image_repo_id,data_source,excitation_nm,emission_nm,exposure_s,objective,pixel_size_um,width_px,height_px,source_url
+210071,IRE1,ER stress sensor,green,210071_IRE1_green.png,868906,8,488,540,0.80,60X,0.10760,1347,1003,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=210071
+210071,NUP49,nuclear marker,red,210071_NUP49_red.png,868907,8,561,600,2.00,60X,0.10760,1347,1003,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=210071
+201943,KAR2,ER stress target,green,201943_KAR2_green.png,820138,8,488,540,0.80,60X,0.10760,1348,1001,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=201943
+201943,NUP49,nuclear marker,red,201943_NUP49_red.png,820139,8,561,600,2.00,60X,0.10760,1348,1001,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=201943
+182391,HAC1,ER stress TF,green,182391_HAC1_green.png,584183,2,490,528,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=182391
+182391,HAC1,bright-field/DIC,dic,182391_HAC1_dic.png,584184,2,,,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=182391
+179997,TRX2,oxidative target,green,179997_TRX2_green.png,583244,2,490,528,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=179997
+179997,TRX2,bright-field/DIC,dic,179997_TRX2_dic.png,583245,2,,,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=179997
+165478,YAP1,oxidative TF,green,165478_YAP1_green.png,572115,2,490,528,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=165478
+165478,YAP1,bright-field/DIC,dic,165478_YAP1_dic.png,572116,2,,,2.00,100X,0.13000,535,512,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=165478
+200646,HSP104,stress-treated (HU),green,200646_HSP104_green.png,812356,8,488,540,0.80,60X,0.10760,1347,1002,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=200646
+200646,NUP49,nuclear marker,red,200646_NUP49_red.png,812357,8,561,600,2.00,60X,0.10760,1347,1002,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=200646
+210637,TRX2,oxidative target,green,210637_TRX2_green.png,872302,8,488,540,0.80,60X,0.10760,1348,1006,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=210637
+210637,NUP49,nuclear marker,red,210637_NUP49_red.png,872303,8,561,600,2.00,60X,0.10760,1348,1006,https://images.yeastrc.org/imagerepo/viewExperiment.do?id=210637

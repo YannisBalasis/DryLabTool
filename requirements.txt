@@ -1,0 +1,16 @@
+numpy
+scipy
+scikit-image
+pandas
+pillow
+
+# optional: only needed for segment.segment_cells(method="cellpose")
+# cellpose
+# torch
+
+# optional: only needed for metadata.read_tiff_metadata()
+# tifffile
+
+# dev/test
+pytest
+tifffile
